@@ -1,0 +1,35 @@
+0
+file insurence_n.php token=Array
+(
+    [Accept] => */*
+    [Access-Control-Request-Method] => POST
+    [Access-Control-Request-Headers] => authorization,content-type
+    [Origin] => http://localhost:3000
+    [User-Agent] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => cross-site
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br
+    [Accept-Language] => en-US,en;q=0.9,ar;q=0.8
+    [Host] => insurance.ps-on-line.com
+)
+
+file insurence_n.php token=Array
+(
+    [Accept] => */*
+    [Access-Control-Request-Method] => POST
+    [Access-Control-Request-Headers] => authorization,content-type
+    [Origin] => http://localhost:3000
+    [User-Agent] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => cross-site
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br
+    [Accept-Language] => en-US,en;q=0.9,ar;q=0.8
+    [Host] => insurance.ps-on-line.com
+)
+
+file insurence_n.php token=save
+file insurence_n.php token=save
